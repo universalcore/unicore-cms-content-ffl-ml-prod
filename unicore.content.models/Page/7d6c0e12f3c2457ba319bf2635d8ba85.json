@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Les enfants disposent du droit \u00e0 l\u2019\u00e9ducation, m\u00eame en situation d\u2019urgence. E\r\nnvoyer\r\nles enfants dans une \u00e9cole s\u00fbre et \u00ab amie des enfants \u00bb contribue \u00e0 renforcer leur\r\nsens de la normalit\u00e9 et \u00e0 entamer le processus de reconstruction. ", 
+  "description": "Les enfants disposent du droit \u00e0 l\u2019\u00e9ducation, m\u00eame en situation d\u2019urgence. Envoyer les enfants dans une \u00e9cole s\u00fbre et \u00ab amie des enfants \u00bb contribue \u00e0 renforcer leur sens de la normalit\u00e9 et \u00e0 entamer le processus de reconstruction. ", 
   "language": "fre_FR", 
   "title": "Les enfants disposent du droit \u00e0 l\u2019\u00e9ducation, m\u00eame en situation d\u2019urgence. E nvoyer les enfants dans une \u00e9cole s\u00fbre et \u00ab amie des enfants \u00bb contribue \u00e0 renforcer leur sens de la normalit\u00e9 et \u00e0 entame", 
   "primary_category": "4702b31d1b94427887f80e59629c42b6", 
-  "created_at": "2014-11-28T11:56:24.184111+00:00", 
+  "created_at": "2014-11-28T11:56:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T02:49:06.299254+00:00", 
+  "modified_at": "2015-03-02T08:33:18.542485+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
