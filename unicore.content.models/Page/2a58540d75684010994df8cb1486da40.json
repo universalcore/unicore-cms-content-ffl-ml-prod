@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": " Les risques de complications pendant la grossesse et l\u2019accouchement augmentent\r\nquand une femme a d\u00e9j\u00e0 eu de nombreuses grossesses", 
+  "description": " Les risques de complications pendant la grossesse et l\u2019accouchement augmentent\r\nquand une femme a d\u00e9j\u00e0 eu de nombreuses grossesses.", 
   "language": "fre_FR", 
   "title": " Les risques de complications pendant la grossesse et l\u2019accouchement augmentent quand une femme a d\u00e9j\u00e0 eu de nombreuses grossesses", 
   "primary_category": "9f861ebd84ec409899ac5dac8c3656ef", 
-  "created_at": "2015-02-26T00:58:10.784060+00:00", 
+  "created_at": "2015-02-26T00:58:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T00:59:59.581623+00:00", 
+  "modified_at": "2015-03-02T08:31:35.669675+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "les-risques-de-complications-pendant-la-grossesse-et-laccouchement-augmentent-quand-une-femme-deja-eu-de-nombreuses-grossesses", 
   "uuid": "2a58540d75684010994df8cb1486da40"
